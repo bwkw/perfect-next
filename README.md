@@ -21,3 +21,9 @@ yarn run lint-fix
 ```
 yarn run format
 ```
+
+4. Check if server run
+
+```
+yarn run dev
+```
