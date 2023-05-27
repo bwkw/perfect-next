@@ -1,6 +1,6 @@
 ## OverView
 
-Pefectly set up Next.js project sample.
+Perfectly set up Next.js project sample.
 
 ## How to set up
 
